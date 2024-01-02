@@ -1,0 +1,22 @@
+.profile{
+    border-radius: 40px;
+    width:150;
+
+}
+span{
+    /* margin-left: 800px; */
+
+    color: white;
+    margin-right: 70px;
+} 
+
+.navi{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.other{
+    background-color: #1c3765;
+
+}
